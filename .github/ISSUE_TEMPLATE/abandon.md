@@ -15,8 +15,7 @@ assignees: 'Homebridge Collaborators'
 * **NPM Ownership Change Completed:** <!-- YES or NO -->
 <!-- you will have to give ownership of plugin to homebridge-plugins organization on NPM.-->
 
-* **GitHub Ownership Change:**
-  * [x] - Transfered.
+* **GitHub Ownership Change Completed:** <!-- YES or NO -->
 <!-- Once ownership of plugin has been transfered to [homebridge-plugins organization](https://github.com/homebridge-plugins) on Github.-->
 
 
