@@ -3,9 +3,6 @@ If you are interested in taking over one of the unmaintained plugins below, that
 
 | Plugin  |                                                                 
 |---------|
-| [homebridge-camera-ffmpeg](https://github.com/homebridge-plugins/homebridge-camera-ffmpeg) |
-| [homebridge-meross](https://github.com/homebridge-plugins/homebridge-meross) |
-| [homebridge-honeywell-home](https://github.com/homebridge-plugins/homebridge-honeywell-home) |
 | [homebridge-platform-wemo](https://github.com/homebridge-plugins/homebridge-platform-wemo) |
 
 
