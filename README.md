@@ -3,7 +3,7 @@ If you are interested in taking over one of the unmaintained plugins below, that
 
 | Plugin  |                                                                 
 |---------|
-| [homebridge-platform-wemo](https://github.com/homebridge-plugins/homebridge-platform-wemo) |
+| Currently all plugins have been claimed and are being maintained. |
 
 
 
