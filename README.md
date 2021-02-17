@@ -3,7 +3,7 @@ If you are interested in taking over one of the unmaintained plugins below, that
 
 | Plugin  |                                                                 
 |---------|
-| Currently all plugins have been claimed and are being maintained. |
+|  [homebridge-philips-air](https://github.com/homebridge-plugins/homebridge-philips-air) |
 
 
 
