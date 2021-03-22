@@ -3,7 +3,6 @@ If you are interested in taking over one of the unmaintained plugins below, that
 
 | Plugin  |                                                                 
 |---------|
-|  [homebridge-philips-air](https://github.com/homebridge-plugins/homebridge-philips-air) |
 |  [homebridge-roomba2](https://github.com/homebridge-plugins/homebridge-roomba2) |
 
 
