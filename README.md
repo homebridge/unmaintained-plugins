@@ -3,7 +3,8 @@ If you are interested in taking over one of the unmaintained plugins below, that
 
 | Plugin  |                                                                 
 |---------|
-|  None   |
+|  homebridge-meross   |
+|  homebridge-meross-cloud   |
 
 
 
