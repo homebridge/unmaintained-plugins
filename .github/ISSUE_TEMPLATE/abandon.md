@@ -1,16 +1,16 @@
 ---
 name: Abandon Plugin Request
-about: Request to abondon a homebridge plugin
-title: 'Request to Abondon Plugin'
+about: Request to abandon a homebridge plugin
+title: 'Request to Abandon Plugin'
 labels: pending-review
 assignees: 'Homebridge Collaborators'
 
 ---
 
-<!-- You must use the request template below when submitting a request to abondon your plugin -->
+<!-- You must use the request template below when submitting a request to abandon your plugin -->
 
 * **Plugin Name:**
-<!-- The name of the plugin you would like to abondon. -->
+<!-- The name of the plugin you would like to abandon. -->
 
 * **NPM Ownership Change Completed:** <!-- YES or NO -->
 <!-- you will have to give ownership of plugin to homebridge-plugins organization on NPM.-->
