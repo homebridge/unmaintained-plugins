@@ -3,10 +3,14 @@ If you are interested in taking over one of the unmaintained plugins below, plea
 
 | Plugin  |                                                                 
 |---------|
-| [homebridge-roomba2](https://github.com/homebridge-plugins/homebridge-roomba2) |
-| [homebridge-tp-link-powerline](https://github.com/homebridge-plugins/homebridge-tp-link-powerline) |
-| [homebridge-blinkcameras](https://github.com/homebridge-plugins/homebridge-blinkcameras) |
 | [homebridge-arlo](https://github.com/homebridge-plugins/homebridge-arlo) / [node-arlo](https://github.com/homebridge-plugins/node-arlo) |
+| [homebridge-blinkcameras](https://github.com/homebridge-plugins/homebridge-blinkcameras) |
+| [homebridge-flume](https://github.com/homebridge-plugins/homebridge-flume) |
+| [homebridge-roomba2](https://github.com/homebridge-plugins/homebridge-roomba2) |
+| [homebridge-thermobit](https://github.com/homebridge-plugins/homebridge-thermobit) |
+| [homebridge-tp-link-powerline](https://github.com/homebridge-plugins/homebridge-tp-link-powerline) |
+
+
 
 
 
