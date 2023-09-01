@@ -10,9 +10,11 @@ If you are interested in taking over one of the unmaintained plugins below, plea
 | [homebridge-thermobit](https://github.com/homebridge-plugins/homebridge-thermobit) |
 | [homebridge-tp-link-powerline](https://github.com/homebridge-plugins/homebridge-tp-link-powerline) |
 
+We also maintain old plugin repos that are no longer needed since they are now published from a new repository. These are listed here, but they do not need a new owner.
 
-
-
+| Plugin  | New Repo | NPM Replacement |
+|---------|----------|-----------------|
+| [homebridge-purpleair](https://github.com/homebridge-plugins/homebridge-purpleair) | [homebridge-purpleair](https://github.com/tillkruss/homebridge-purpleair) | [homebridge-purpleair](https://www.npmjs.com/package/homebridge-purpleair)
 
 # Abandoning Plugin
-If for any reason you can no longer maintain a plugin, please consider transferring it to our [unmaintained plugins](https://github.com/homebridge-plugins/Info) repo. We can take ownernship until another willing developer comes along. Submit a request [here](https://github.com/homebridge/unmaintained-plugins/issues/new?assignees=Homebridge+Collaborators&labels=pending-review&template=abandon.md&title=Request+to+Abandon+Plugin) so that transfer of ownership can be given to us on both GitHub and on NPM.
+If for any reason you can no longer maintain a plugin, please consider transferring it to our [unmaintained plugins](https://github.com/homebridge-plugins/Info) repo. We can take ownership until another willing developer comes along. Submit a request [here](https://github.com/homebridge/unmaintained-plugins/issues/new?assignees=Homebridge+Collaborators&labels=pending-review&template=abandon.md&title=Request+to+Abandon+Plugin) so that transfer of ownership can be given to us on both GitHub and on NPM.
