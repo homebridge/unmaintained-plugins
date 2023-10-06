@@ -17,6 +17,7 @@ We also maintain old plugin repos that are no longer needed since they are now p
 
 | Plugin  | New Repo | NPM Replacement |
 |---------|----------|-----------------|
+| [homebridge-gree-ac](https://github.com/homebridge-plugins/homebridge-gree-ac) | [homebridge-gree-airconditioner](https://github.com/eibenp/homebridge-gree-airconditioner) | [homebridge-gree-ac](https://www.npmjs.com/package/homebridge-gree-ac)
 | [homebridge-purpleair](https://github.com/homebridge-plugins/homebridge-purpleair) | [homebridge-purpleair](https://github.com/tillkruss/homebridge-purpleair) | [homebridge-purpleair](https://www.npmjs.com/package/homebridge-purpleair)
 
 ## Abandon Plugin
