@@ -10,6 +10,7 @@ If you are interested in taking over one of the unmaintained plugins below, plea
 | [homebridge-roomba2](https://github.com/homebridge-plugins/homebridge-roomba2) |
 | [homebridge-thermobit](https://github.com/homebridge-plugins/homebridge-thermobit) |
 | [homebridge-tp-link-powerline](https://github.com/homebridge-plugins/homebridge-tp-link-powerline) |
+| [homebridge-virtual-device](https://github.com/homebridge-plugins/homebridge-virtual-device) |
 
 ## Unmaintained Plugins (Unavailable)
 
